@@ -39,4 +39,5 @@ The Kinesiology Department of Iowa State University (2018). ISUmouse dataset. Av
 # Contact
 If you wish to contact the authors you may reach them through the either of the following email addresses:
 dqin@iastate.edu 
+or
 shenfu@iastate.edu
